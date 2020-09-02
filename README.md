@@ -11,6 +11,10 @@
 
 ![](https://komarev.com/ghpvc/?username=orhunyildiz&color=2bbc8a&label=visitors)
 
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+</div>
+
 My name is Orhun YILDIZ and I'm a software engineer student at Karadeniz Technical University. I'm from Turkey, currently living in Trabzon. Have a nice day :) 
 
 ## 🔧 Technologies & Tools
