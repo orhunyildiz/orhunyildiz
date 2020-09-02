@@ -9,8 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=orhunyildiz&color=2bbc8a&label=visitors)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"/>
-
 My name is Orhun YILDIZ and I'm a software engineer student at Karadeniz Technical University. I'm from Turkey, currently living in Trabzon. Have a nice day :) 
 
 ## 🔧 Technologies & Tools
@@ -29,5 +27,3 @@ My name is Orhun YILDIZ and I'm a software engineer student at Karadeniz Technic
 <a href="https://github.com/orhunyildiz/orhunyildiz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhunyildiz&hide=matlab,swift&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
-
