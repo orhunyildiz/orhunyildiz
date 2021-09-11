@@ -15,7 +15,7 @@
 
 </div>
 
-My name is Orhun YILDIZ and I'm a software engineer student at Karadeniz Technical University. I'm from Turkey, currently living in Trabzon. Have a nice day :) 
+My name is Orhun YILDIZ and I'm a software engineer graduated from Karadeniz Technical University. I'm from Turkey, currently living in Izmir. Have a nice day :) 
 
 ## 🔧 Technologies & Tools
 
