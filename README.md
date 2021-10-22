@@ -33,5 +33,5 @@ My name is Orhun YILDIZ and I'm a software engineer graduated from Karadeniz Tec
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=orhunyildiz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Orhun's GitHub Stats" />
 </a>
 <a href="https://github.com/orhunyildiz/orhunyildiz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhunyildiz&hide=matlab,swift,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orhunyildiz&hide=matlab,swift,html,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 </a>
