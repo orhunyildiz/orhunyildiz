@@ -2,16 +2,18 @@
   
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<a href="https://twitter.com/yildizorhun">
-  <img alt="Orhun YILDIZ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/orhun102/">
-  <img alt="Orhun's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/yildizorhun">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white">
+  </a>
+  <a href="https://instagram.com/orhun102">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+
 
 ![](https://komarev.com/ghpvc/?username=orhunyildiz&color=2bbc8a&label=visitors)
-
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 </div>
 
